@@ -8,7 +8,7 @@ let dataArray = [
 	"bat tumbler",
 	"cybertruck",
 	"delorean",
-	"elanore",
+	"elanor",
 	"magic school bus",
 	"toyota corolla"
 ];
